@@ -1,7 +1,7 @@
 # Gitea
 Setting Up Gitea with A Traefik Reverse Proxy as Load Balancer
 
-Site is live at: http://54.169.68.63:3000/ (Note: Singapore Server)
+Site is live at: http://54.169.68.63:3000/ (Note: Singapore EC2 Server)
 
 Used:
  - Docker
